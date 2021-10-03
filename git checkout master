@@ -1,0 +1,42 @@
+[33mcommit 1f1af01e2d4c3078dd56781069c80f3e0d380bc3[m[33m ([m[1;32mmaster[m[33m)[m
+Author: sugesh chandr m k <sugeshc389@gmail.com>
+Date:   Wed Sep 29 22:09:15 2021 +0530
+
+    File edited
+
+[33mcommit bc667cca69491919a664aeb01a5897f051122ea5[m[33m ([m[1;35mrefs/stash[m[33m)[m
+Merge: bf73ce2 d0aface
+Author: sugesh chandr m k <sugeshc389@gmail.com>
+Date:   Wed Sep 29 22:05:08 2021 +0530
+
+    WIP on master: bf73ce2 Second file added
+
+[33mcommit d0aface99e094c02e16c4dcfc73e5d795edc41e1[m
+Author: sugesh chandr m k <sugeshc389@gmail.com>
+Date:   Wed Sep 29 22:05:08 2021 +0530
+
+    index on master: bf73ce2 Second file added
+
+[33mcommit 7cb528655f72e5644f2ca43fdc52877782e81f62[m[33m ([m[1;36mHEAD -> [m[1;32mfeature[m[33m)[m
+Author: sugesh chandr m k <sugeshc389@gmail.com>
+Date:   Wed Sep 29 21:47:33 2021 +0530
+
+    File edited
+
+[33mcommit bf73ce2761fb051c685a876c9ed6d6c572fa5323[m
+Author: sugesh chandr m k <sugeshc389@gmail.com>
+Date:   Wed Sep 29 21:31:31 2021 +0530
+
+    Second file added
+
+[33mcommit 199fe738d2624a5f91b1926ce8cce2dd5f8332ca[m
+Author: sugesh chandr m k <sugeshc389@gmail.com>
+Date:   Wed Sep 29 08:00:32 2021 +0530
+
+    added some message
+
+[33mcommit 4966a0118c267751631508ba0487b796faf3f861[m
+Author: sugesh chandr m k <sugeshc389@gmail.com>
+Date:   Wed Sep 29 07:51:09 2021 +0530
+
+    first commit
